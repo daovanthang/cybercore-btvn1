@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "iphone xs max",
+    "price": 15,
+    "amount": 110,
+    "description": "d"
+  },
+  {
+    "id": "2",
+    "name": "iphone pro max",
+    "price": 50,
+    "amount": 20,
+    "description": "dd"
+  },
+  {
+    "id": "3",
+    "name": "iphone 6s plus",
+    "price": 8,
+    "amount": 120,
+    "description": "ddd"
+  },
+  {
+    "id": "4",
+    "name": "Samsung Note 7",
+    "price": 80,
+    "amount": 51,
+    "description": "dddd"
+  },
+  {
+    "id": "6",
+    "name": "Xiami note 12",
+    "price": 5,
+    "amount": 30,
+    "description": "ddddd"
+  },
+  {
+    "id": "7",
+    "name": "xiaomi note 9",
+    "price": 30,
+    "amount": 30,
+    "description": "ddddd"
+  },
+  {
+    "id": "8",
+    "name": "xiaomi note 8",
+    "price": 29,
+    "amount": 30,
+    "description": "dddddd"
+  },
+  {
+    "id": "9",
+    "name": "xiaomi note 7",
+    "price": 28,
+    "amount": 30,
+    "description": "ddddddd"
+  },
+  {
+    "id": "10",
+    "name": "xiaomi note 6",
+    "price": 66,
+    "amount": 30,
+    "description": "ddddddd"
+  }
+]
